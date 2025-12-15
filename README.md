@@ -55,4 +55,12 @@ The objective of this analysis is to summarize GameGalaxy’s historical sales, 
 
 **Data Scope & Timeframe**
 
+ - Data Source: GameGalaxy transactional order data
+ - Grain: Order-level data
+ - Timeframe: January 2019 – March 2021
+ - Key Dimensions: Product, Marketing Channel, Platform, Region, Account Creation Method
+ - Key Metrics: Total Revenue, Average Order Value, Top Products by Revenue, Revenue by Marketing Channel, Revenue by Platform, Conversion Proxy, Time to Ship, Average Revenure per User, and Regional Revenue Performance. 
 
+_Assumption: Each ORDER_ID represents a completed purchase._
+
+**Pertinent Findings for Business Objectives**
