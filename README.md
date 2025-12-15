@@ -18,9 +18,9 @@ This analysis will identify key trends, growth patterns, performance metrics, an
 
 These insights will allow GameGalaxy to optimize pricing and product strategy, allocate marketing spend more efficiently, improve logistics performance, and strengthen revenue through targeted customer strategies.
 
-An interactive PowerBI dashboard can be downloaded (here)
-The SQL queries utilized to inspect and perform quality checks can be found (here)
-Targeted SQL queries regarding relevant business questions can be found (here)
+ - An interactive PowerBI dashboard can be downloaded (here)
+ - The SQL queries utilized to inspect and perform quality checks can be found (here)
+ - Targeted SQL queries regarding relevant business questions can be found (here)
 
 # GameGalaxy E-Commerce Data Model: Orders, Customers, Products, Marketing, and Logistics
 
