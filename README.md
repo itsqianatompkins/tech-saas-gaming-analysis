@@ -67,4 +67,6 @@ _Assumption: Each ORDER_ID represents a completed purchase._
 
 _Sales Performance_
 
-<img width="1161" height="534" alt="Screenshot 2025-12-15 at 8 46 09 PM" src="https://github.com/user-attachments/assets/2812d91f-1b71-4a97-b5c9-7fb3fdfe5fcf" />
+<img width="789" height="367" alt="Screenshot 2025-12-15 at 8 52 02 PM" src="https://github.com/user-attachments/assets/389fc60c-68e6-42fb-ad7a-41761be887d8" />
+
+
