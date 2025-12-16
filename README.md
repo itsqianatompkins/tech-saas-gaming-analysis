@@ -72,4 +72,9 @@ _Product Performance_
 
 <img width="1421" height="622" alt="Screenshot 2025-12-16 at 12 47 29 AM" src="https://github.com/user-attachments/assets/56734ede-a3d7-4bac-b185-93364c63fbd6" />
 
+ - Revenue is highly concentrated, with the top three products accounting for 84.6% of total sales.
+ - The 27-inch 4K gaming monitor, Nintendo Switch, and Sony PlayStation 5 bundle consistently outperform across platforms, indicating strong product-market fit.
+ - From 2019 to 2020, revenue grew sharply across all four products, led by the Sony PlayStation 5 Bundle (+351%), followed by the Lenovo IdeaPad Gaming 3 (+198%), the 27in 4K Gaming Monitor (+120%), and the Nintendo Switch (+103%), highlighting especially strong momentum in console bundles and gaming hardware.
+
+
 
