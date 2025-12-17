@@ -12,11 +12,13 @@ This analysis will identify key trends, growth patterns, performance metrics, an
 
 These insights will allow GameGalaxy to optimize pricing and product strategy, allocate marketing spend more efficiently, improve logistics performance, and strengthen revenue through targeted customer strategies.
 
+
+<img width="1920" height="1080" alt="GameGalaxy_ERD" src="https://github.com/user-attachments/assets/6bc1e98b-072e-4a9b-bd5b-b092b1bc28f1" />
+
+
 # GameGalaxy E-Commerce Data Model: Orders, Customers, Products, Marketing, and Logistics
 
 The data is structured around a central Orders fact table linked to customer, product, marketing, and logistics dimensions, enabling cross-functional analysis across 19,851 records.
-
-![GameGalaxy Entity-Relationship Diagram (ERD)](images/GameGalaxy_ERD.jpg)
 
 The Orders table is the central transaction record that links all business activity.
 
@@ -50,7 +52,9 @@ _Assumption: Each ORDER_ID represents a completed purchase._
 
 ***Sales Performance***
 
-photo here 
+
+<img width="1425" height="619" alt="Screenshot 2025-12-16 at 11 46 09 PM" src="https://github.com/user-attachments/assets/86488022-7a1a-4da0-810d-66644acebf99" />
+ 
 
 - Revenue grew 161% year over year (2019 → 2020), signaling strong sales momentum and successful business scaling.
 
@@ -68,11 +72,14 @@ photo here
 
 ***Product Performance***
 
-Photo Here 
+<img width="1421" height="622" alt="Screenshot 2025-12-16 at 12 47 29 AM" src="https://github.com/user-attachments/assets/90f821c8-3019-4a6a-9dc5-461825bb9524" />
+
 
  - Revenue is highly concentrated, with the top three products accounting for 84.6% of total sales.
  - The 27-inch 4K gaming monitor, Nintendo Switch, and Sony PlayStation 5 bundle consistently outperform across platforms, indicating strong product-market fit.
  - From 2019 to 2020, revenue grew sharply across all four products, led by the Sony PlayStation 5 Bundle (+351%), followed by the Lenovo IdeaPad Gaming 3 (+198%), the 27in 4K Gaming Monitor (+120%), and the Nintendo Switch (+103%), highlighting especially strong momentum in console bundles and gaming hardware.
 
 ***Marketing Channel & Platform Performance***
+
+<img width="1425" height="619" alt="Screenshot 2025-12-16 at 11 46 09 PM" src="https://github.com/user-attachments/assets/cbb6f314-770b-4ff2-baa3-d1a49958419b" />
 
