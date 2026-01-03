@@ -82,4 +82,5 @@ _Assumption: Each ORDER_ID represents a completed purchase._
 ***Marketing Channel & Platform Performance***
 
 <img width="1425" height="619" alt="Screenshot 2025-12-16 at 11 46 09 PM" src="https://github.com/user-attachments/assets/cbb6f314-770b-4ff2-baa3-d1a49958419b" />
-
+ 
+ - Global revenue growth ranked by sales (2019–2020): NA led with $759.7K → $1.9M (150.5% CAGR), followed by EMEA $411.5K → $1.09M (165.1%), APAC $150.1K → $448.8K (199.0%), and LATAM $74.3K → $205.1K (175.9%).
