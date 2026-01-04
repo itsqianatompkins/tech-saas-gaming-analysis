@@ -1,6 +1,6 @@
 # Background 
 
-GameGalaxy has grown rapidly across platforms and markets, but lacks a unified view of sales performance, customer value, and fulfillment efficiency. As competition and operating costs rise, leadership needs clear, data-driven insight into revenue-driving products, high-value acquisition channels, and logistics bottlenecks impacting customer loyalty.
+GameGalaxy has grown rapidly across platforms and markets, but lacks a unified view of sales performance, customer value, and fulfillment efficiency. As competition and operating costs rise, leadership needs clear, data-driven insights into revenue-driving products, high-value acquisition channels, and logistics bottlenecks that impact customer loyalty.
 
 # Overview 
 
@@ -30,7 +30,7 @@ The Orders table is the central transaction record that links all business activ
 
 Together, these relationships create a unified view of revenue, customers, marketing, and fulfillment performance.
 
-Before beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries utilized to inspect and perform quality checks can be found (here).
+Before beginning the analysis, various checks were conducted for quality control and to familiarize myself with the datasets. The SQL queries utilized to inspect and perform quality checks can be found (here).
 
 # Executive Summary
 
@@ -44,7 +44,7 @@ The objective of this analysis is to summarize GameGalaxy’s historical sales, 
  - Grain: Order-level data
  - Timeframe: January 2019 – March 2021
  - Key Dimensions: Product, Marketing Channel, Platform, Region, Account Creation Method
- - Key Metrics: Total Revenue, Average Order Value, Top Products by Revenue, Revenue by Marketing Channel, Revenue by Platform, Conversion Proxy, Time to Ship, Average Revenure per User, and Regional Revenue Performance. 
+ - Key Metrics: Total Revenue, Average Order Value, Top Products by Revenue, Revenue by Marketing Channel, Revenue by Platform, Conversion Proxy, Time to Ship, Average Revenue per User, and Regional Revenue Performance. 
 
 _Assumption: Each ORDER_ID represents a completed purchase._
 
@@ -83,6 +83,7 @@ _Assumption: Each ORDER_ID represents a completed purchase._
 
 <img width="1425" height="619" alt="Screenshot 2025-12-16 at 11 46 09 PM" src="https://github.com/user-attachments/assets/cbb6f314-770b-4ff2-baa3-d1a49958419b" />
  
- - Global revenue growth ranked by sales (2019–2020): **North America (NA) led with $759.7K → $1.9M (150.5% CAGR)**, followed by  **Europe, Middle East, Africa (EMEA) $411.5K → $1.09M (165.1%)**, **Asia Pacific (APAC) $150.1K → $448.8K (199.0%)**, and **Latin America (LATAM) $74.3K → $205.1K (175.9%)**.
- - Drove multi-channel revenue growth YoY, led by **Direct ($1.19M → $3.09M, 159% CAGR)** and **Email ($115K → $373K, 223% CAGR)**, while scaling **Social Media (138% CAGR) and Affiliate (71% CAGR)** channels.
- - Scaled platform revenue YoY, with the **Website driving primary growth ($1.35M → $3.56M, 163% CAGR)** and the **Mobile App doubling performance ($42K → $87K, 106% CAGR)**.
+ - Global revenue growth ranked by sales (2019–2020): North America (NA) led with $759.7K → $1.9M (150.5% CAGR), followed by  Europe, Middle East, Africa (EMEA) $411.5K → $1.09M (165.1%), Asia Pacific (APAC) $150.1K → $448.8K (199.0%), and Latin America (LATAM) $74.3K → $205.1K (175.9%).
+ - Drove multi-channel revenue growth YoY, led by Direct ($1.19M → $3.09M, 159% CAGR) and Email ($115K → $373K, 223% CAGR), while scaling Social Media (138% CAGR) and Affiliate (71% CAGR) channels.
+ - Scaled platform revenue YoY, with the Website driving primary growth ($1.35M → $3.56M, 163% CAGR) and the Mobile App doubling performance ($42K → $87K, 106% CAGR).
+ - Order Methods increased YoY: Desktop led ($990K → $2.82M, 185% growth), followed by Mobile ($318K → $642K, 102% growth), Unknown ($69K → $140K, 103% growth), Tablet ($18K → $44K, 138% growth), and TV ($1.1K → $3.4K, 207% growth), with TV showing the highest growth rate despite the lowest overall sales volume.
