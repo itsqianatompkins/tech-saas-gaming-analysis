@@ -93,7 +93,7 @@ Revenue was highly concentrated among a few top products, led by the **27” 4K 
  
  - Global revenue growth ranked by sales (2019–2020): North America (NA) led with $759.7K → $1.9M (+150.5%), followed by  Europe, Middle East, Africa (EMEA) $411.5K → $1.09M (+165.1%), Asia Pacific (APAC) $150.1K → $448.8K (+199.0%), and Latin America (LATAM) $74.3K → $205.1K (+175.9%).
    
- - Drove multi-channel revenue growth YoY, led by Direct ($1.19M → $3.09M, +159%) and Email ($115K → $373K, +223%), while scaling Social Media (138% CAGR) and Affiliate (+71%) channels.
+ - Drove multi-channel revenue growth YoY, led by Direct ($1.19M → $3.09M, +159%) and Email ($115K → $373K, +223%), while scaling Social Media (+138%) and Affiliate (+71%) channels.
    
  - Scaled platform revenue YoY, with the Website driving primary growth ($1.35M → $3.56M, +163%) and the Mobile App doubling performance ($42K → $87K, +106%).
    
