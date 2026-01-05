@@ -98,8 +98,20 @@ Revenue was highly concentrated among a few top products, led by the **27” 4K 
    
  - Order Methods increased YoY: Desktop led ($990K → $2.82M, +185%), followed by Mobile ($318K → $642K, +102%), Unknown ($69K → $140K, +103%), Tablet ($18K → $44K, +138%), and TV ($1.1K → $3.4K, +207%), with TV showing the highest growth rate despite the lowest overall sales volume.
 
-# Insights & Recommendations 
+# Business Insights
 
 ***Caveats & Assumptions***
 
 Approximately 2,000 of 19.851 records contained shipping dates occurring before purchase dates, indicating data quality issues that prevented a reliable calculation of average time-to-ship. For analysis purposes, it was assumed these dates were reversed due to entry or system errors; however, this introduces potential risk of misrepresenting fulfillment performance. To mitigate this risk, affected records should be excluded from time-based metrics or validated through data cleaning, along with implementing stronger data validation controls and routine quality audits going forward.
+
+***Recommendations & Next Steps*** 
+
+ - Expand the product ecosystem by vertically integrating refurbished and trending games/accessories for top consoles, turning one-time console buyers into repeat purchasers and increasing lifetime value.
+
+- Optimize marketing spend by increasing investment in direct and email channels, especially during high-impact months (Aug–Sept and Nov–Dec), to fully capitalize on peak season demand.
+
+ - Focus on retention initiatives, such as bundling offers, loyalty programs, or personalized email campaigns targeted to top-tier markets (North America/EMEA) to convert first-time buyers into repeat buyers.
+
+ - Enhance mobile engagement given email’s strong relative performance on mobile devices; optimize campaigns and user experience for mobile.
+
+ - Improve data quality processes to enable more reliable operational metrics (e.g., shipping performance), which are critical for strategic logistics decisions.
