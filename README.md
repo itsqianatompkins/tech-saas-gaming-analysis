@@ -95,6 +95,10 @@ _Assumption: Each ORDER_ID represents a completed purchase._
 
 ***Overview of Findings***
 
+Overall revenue totaled **$5.49M over 9 quarters, with 2020 emerging as the strongest sales year**, driven by higher order volume rather than increases in pricing. Sales peaked in **September and December**, indicating strong seasonality likely tied to major game releases and holiday demand. North America (NA) accounted for the largest share of revenue, followed by Europe, the Middle East, and Africa (EMEA).
 
+The **website platform generated 97%** of total revenue, confirming it as the primary sales channel, while mobile contributed a small but meaningful share. **Direct traffic dominated overall revenue**, followed by email and affiliate marketing. Notably, **email outperformed direct traffic on mobile**, suggesting channel effectiveness varies by device.
+
+Revenue was highly concentrated among a few top products, led by the **27” 4K Gaming Monitor, Nintendo Switch, and Sony PlayStation 5 Bundle**. These products significantly outperformed all others, indicating a narrow but high-impact product mix. Lower-priced accessories contributed minimal revenue, highlighting an opportunity to expand complementary offerings to drive repeat purchases.
 
 ***Caveats & Assumptions***
