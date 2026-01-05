@@ -1,5 +1,8 @@
 ![game-galaxy](https://github.com/user-attachments/assets/0bb8f2c7-dbab-411d-a0f9-e296ea3c03fd)
 
+(This case study uses **fictional company data with legitimate analytical methods** and is intended solely to demonstrate professional skills and capabilities while pursuing career opportunities.)
+
+
 # Background 
 
 GameGalaxy has grown rapidly across platforms and markets, but lacks a unified view of sales performance, customer value, and fulfillment efficiency. As competition and operating costs rise, leadership needs clear, data-driven insights into revenue-driving products, high-value acquisition channels, and logistics bottlenecks that impact customer loyalty.
