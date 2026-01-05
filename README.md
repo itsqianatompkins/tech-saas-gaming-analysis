@@ -82,20 +82,22 @@ Revenue was highly concentrated among a few top products, led by the **27” 4K 
 
 
  - Revenue is highly concentrated, with the top three products accounting for 84.6% of total sales.
+   
  - The 27-inch 4K gaming monitor, Nintendo Switch, and Sony PlayStation 5 bundle consistently outperform across platforms, indicating strong product-market fit.
+   
  - From 2019 to 2020, revenue grew sharply across all four products, led by the Sony PlayStation 5 Bundle (+351%), followed by the Lenovo IdeaPad Gaming 3 (+198%), the 27in 4K Gaming Monitor (+120%), and the Nintendo Switch (+103%), highlighting especially strong momentum in console bundles and gaming hardware.
 
 ***Marketing Channel & Platform Performance***
 
 <img width="1425" height="619" alt="Screenshot 2025-12-16 at 11 46 09 PM" src="https://github.com/user-attachments/assets/cbb6f314-770b-4ff2-baa3-d1a49958419b" />
  
- - Global revenue growth ranked by sales (2019–2020): North America (NA) led with $759.7K → $1.9M (150.5% CAGR), followed by  Europe, Middle East, Africa (EMEA) $411.5K → $1.09M (165.1%), Asia Pacific (APAC) $150.1K → $448.8K (199.0%), and Latin America (LATAM) $74.3K → $205.1K (175.9%).
+ - Global revenue growth ranked by sales (2019–2020): North America (NA) led with $759.7K → $1.9M (+150.5%), followed by  Europe, Middle East, Africa (EMEA) $411.5K → $1.09M (+165.1%), Asia Pacific (APAC) $150.1K → $448.8K (+199.0%), and Latin America (LATAM) $74.3K → $205.1K (+175.9%).
    
- - Drove multi-channel revenue growth YoY, led by Direct ($1.19M → $3.09M, 159% CAGR) and Email ($115K → $373K, 223% CAGR), while scaling Social Media (138% CAGR) and Affiliate (71% CAGR) channels.
+ - Drove multi-channel revenue growth YoY, led by Direct ($1.19M → $3.09M, +159%) and Email ($115K → $373K, +223%), while scaling Social Media (138% CAGR) and Affiliate (+71%) channels.
    
- - Scaled platform revenue YoY, with the Website driving primary growth ($1.35M → $3.56M, 163% CAGR) and the Mobile App doubling performance ($42K → $87K, 106% CAGR).
+ - Scaled platform revenue YoY, with the Website driving primary growth ($1.35M → $3.56M, +163%) and the Mobile App doubling performance ($42K → $87K, +106%).
    
- - Order Methods increased YoY: Desktop led ($990K → $2.82M, 185% growth), followed by Mobile ($318K → $642K, 102% growth), Unknown ($69K → $140K, 103% growth), Tablet ($18K → $44K, 138% growth), and TV ($1.1K → $3.4K, 207% growth), with TV showing the highest growth rate despite the lowest overall sales volume.
+ - Order Methods increased YoY: Desktop led ($990K → $2.82M, +185%), followed by Mobile ($318K → $642K, +102%), Unknown ($69K → $140K, +103%), Tablet ($18K → $44K, +138%), and TV ($1.1K → $3.4K, +207%), with TV showing the highest growth rate despite the lowest overall sales volume.
 
 # Insights & Recommendations 
 
